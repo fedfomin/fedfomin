@@ -4,4 +4,4 @@ I am a Software Engineer at ****** and i mainly build website applications using
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedfomin&layout=compact&langs_count=8&theme=calm&hide=HTML,Gnuplot)](https://github.com/anuraghazra/github-readme-stats)
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fedir-fomin), [e-mail](mailto:fedfomin99@gmail.com)
+📫 How to reach me to my [e-mail](mailto:fedfomin99@gmail.com)
