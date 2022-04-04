@@ -1,6 +1,5 @@
 ### Hello, Brave New World! 🪐
 
-<!--
 **r-mura/r-mura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/riccardo-mura-2b4b426a/), [personal mail](riccardo_mura@yahoo.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/riccardo-mura-2b4b426a/), [e-mail](mailto:riccardo_mura@yahoo.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedfomin&include_all_commits=false&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
