@@ -1,6 +1,6 @@
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fedir-fomin), [e-mail](mailto:fedfomin99@gmail.com)
 
-Hi, I'm Fedir Fomin, also known as Wallen.
+Hi, i'm known as Wallen in the gaming industry.
 
 Experienced with a wide variety of creative tools and technical skills, I like to solve design, storytelling and technical problems in digital media.
 
